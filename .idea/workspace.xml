@@ -10,8 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40843f3b-6aa0-4bad-8aa1-30f8f00b1bbd" name="Changes" comment="PRESENTACION HOLA MUNDO">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/josue/servlet/Parametrosgetservlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/steven/servlet/Parametrosgetservlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/josue/servlet/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/steven/servlet/Servlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +28,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="steven" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -64,9 +70,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.Tomcat 10.1.24.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "steve",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ESTUDIANTE/IdeaProjects/ProcesoMatematico",
+    "last_opened_file_path": "C:/Users/ESTUDIANTE/IdeaProjects/holaMundoServle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,6 +85,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 10.1.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.24" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
@@ -193,6 +202,8 @@
       <workItem from="1715959818498" duration="2957000" />
       <workItem from="1716210333247" duration="2113000" />
       <workItem from="1719853033577" duration="611000" />
+      <workItem from="1719853661569" duration="329000" />
+      <workItem from="1719855473980" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="PRESENTACION HOLA MUNDO">
       <option name="closed" value="true" />
@@ -202,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719853394954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PRESENTACION HOLA MUNDO">
+      <option name="closed" value="true" />
+      <created>1719853677828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719853677828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
